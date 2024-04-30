@@ -1,5 +1,5 @@
 # Instalación entorno de desarrollo en Windows con WSL
-## Herramientas: Zsh + Oh My Zsh + plugins + Docker
+## Herramientas: Zsh + Oh My Zsh + plugins + Docker + GO + Node + Python
 
 Este documento detalla los pasos para instalar Zsh, Oh My Zsh, plugins útiles y docker en tu sistema.
 
@@ -56,3 +56,20 @@ Este documento detalla los pasos para instalar Zsh, Oh My Zsh, plugins útiles y
     ```bash
     YT:	    https://www.youtube.com/watch?v=A34k_dp8CxM
     Doc:	https://docs.docker.com/engine/install/ubuntu/
+
+11. **Instalar GO:**
+    ```bash
+    YT:     https://www.youtube.com/watch?v=9LSpTlCZ8xQ
+
+11. **Instalar Python:**
+    ```bash
+    Ubuntu 24.04 viene con Python 3.12.3
+
+12. **Instalar NVM y Node:**
+    ```bash
+    nvm
+    curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
+    source ~/.zshrc
+
+    node
+    nvm install --lts
