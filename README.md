@@ -1,6 +1,7 @@
-# Instalación de Zsh + Oh My Zsh + plugins
+# Instalación entorno de desarrollo en Windows con WSL
+## Herramientas: Zsh + Oh My Zsh + plugins + Docker
 
-Este documento detalla los pasos para instalar Zsh, Oh My Zsh y algunos plugins útiles en tu sistema.
+Este documento detalla los pasos para instalar Zsh, Oh My Zsh, plugins útiles y docker en tu sistema.
 
 ## Pasos
 
@@ -53,5 +54,5 @@ Este documento detalla los pasos para instalar Zsh, Oh My Zsh y algunos plugins 
 
 10. **Instalar Docker:**
     ```bash
-    YT:		https://www.youtube.com/watch?v=A34k_dp8CxM
+    YT:	    https://www.youtube.com/watch?v=A34k_dp8CxM
     Doc:	https://docs.docker.com/engine/install/ubuntu/
