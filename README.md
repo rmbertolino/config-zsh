@@ -50,3 +50,8 @@ Este documento detalla los pasos para instalar Zsh, Oh My Zsh y algunos plugins 
 9. **Cambiar la apariencia:**
     ```bash
     Cambiar la apariencia de windows terminal a Campbell
+
+10. **Instalar Docker:**
+    ```bash
+    YT:		https://www.youtube.com/watch?v=A34k_dp8CxM
+    Doc:	https://docs.docker.com/engine/install/ubuntu/
